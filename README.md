@@ -1,4 +1,5 @@
 # building-ai-project
+#summary
 def main():
     countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden'][cite: 21]
     pop = [5615000, 5439000, 324000, 5080000, 9609000][cite: 21]
