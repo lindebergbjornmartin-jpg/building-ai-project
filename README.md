@@ -1,5 +1,15 @@
-# building-ai-project
-#summary
+# Building AI
+
+Final project for the Building AI course
+
+## Summary
+Building AI course project[cite: 23]
+
+## Background
+
+## How is it used?
+
+```python
 def main():
     countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden'][cite: 21]
     pop = [5615000, 5439000, 324000, 5080000, 9609000][cite: 21]
