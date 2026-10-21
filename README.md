@@ -3,8 +3,7 @@
 Final project for the Building AI course
 
 ## Summary
-Building AI course project[cite: 23]
-
+Tegemist on Building AI kursuse lõputööga. Projekti eesmärk on lahendada Prügi sorteerimine ja taaskasutus, kasutades tehisintellekti meetodeid, et pakkuda kasutajatele mugavat ja täpset lahendust. Building AI course project.
 ## Background
 
 ## How is it used?
